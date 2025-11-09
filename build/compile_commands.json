@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Walloniades_autogen\\mocs_compilation.cpp.obj -c C:\\C++\\Walloniades\\build\\Walloniades_autogen\\mocs_compilation.cpp",
+  "file": "C:/C++/Walloniades/build/Walloniades_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Walloniades_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\main.cpp.obj -c C:\\C++\\Walloniades\\main.cpp",
+  "file": "C:/C++/Walloniades/main.cpp",
+  "output": "CMakeFiles/Walloniades.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Capitaine.cpp.obj -c C:\\C++\\Walloniades\\Capitaine.cpp",
+  "file": "C:/C++/Walloniades/Capitaine.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Capitaine.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Epreuve.cpp.obj -c C:\\C++\\Walloniades\\Epreuve.cpp",
+  "file": "C:/C++/Walloniades/Epreuve.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Epreuve.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Equipe.cpp.obj -c C:\\C++\\Walloniades\\Equipe.cpp",
+  "file": "C:/C++/Walloniades/Equipe.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Equipe.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\mainwindow.cpp.obj -c C:\\C++\\Walloniades\\mainwindow.cpp",
+  "file": "C:/C++/Walloniades/mainwindow.cpp",
+  "output": "CMakeFiles/Walloniades.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\mainwindowdesigner.cpp.obj -c C:\\C++\\Walloniades\\mainwindowdesigner.cpp",
+  "file": "C:/C++/Walloniades/mainwindowdesigner.cpp",
+  "output": "CMakeFiles/Walloniades.dir/mainwindowdesigner.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Participant.cpp.obj -c C:\\C++\\Walloniades\\Participant.cpp",
+  "file": "C:/C++/Walloniades/Participant.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Participant.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\w_consultermodifierequipe.cpp.obj -c C:\\C++\\Walloniades\\w_consultermodifierequipe.cpp",
+  "file": "C:/C++/Walloniades/w_consultermodifierequipe.cpp",
+  "output": "CMakeFiles/Walloniades.dir/w_consultermodifierequipe.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_DefinirTirage.cpp.obj -c C:\\C++\\Walloniades\\W_DefinirTirage.cpp",
+  "file": "C:/C++/Walloniades/W_DefinirTirage.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_DefinirTirage.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_EntrerEpreuve.cpp.obj -c C:\\C++\\Walloniades\\W_EntrerEpreuve.cpp",
+  "file": "C:/C++/Walloniades/W_EntrerEpreuve.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_EntrerEpreuve.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_EntrerEquipe.cpp.obj -c C:\\C++\\Walloniades\\W_EntrerEquipe.cpp",
+  "file": "C:/C++/Walloniades/W_EntrerEquipe.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_EntrerEquipe.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_EntrerResultats.cpp.obj -c C:\\C++\\Walloniades\\W_EntrerResultats.cpp",
+  "file": "C:/C++/Walloniades/W_EntrerResultats.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_EntrerResultats.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_DefinirOrdreDePassage.cpp.obj -c C:\\C++\\Walloniades\\W_DefinirOrdreDePassage.cpp",
+  "file": "C:/C++/Walloniades/W_DefinirOrdreDePassage.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_DefinirOrdreDePassage.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\Walloniade.cpp.obj -c C:\\C++\\Walloniades\\Walloniade.cpp",
+  "file": "C:/C++/Walloniades/Walloniade.cpp",
+  "output": "CMakeFiles/Walloniades.dir/Walloniade.cpp.obj"
+},
+{
+  "directory": "C:/C++/Walloniades/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Walloniades.dir/includes_CXX.rsp -g -o CMakeFiles\\Walloniades.dir\\W_DefinirTempsPenalite.cpp.obj -c C:\\C++\\Walloniades\\W_DefinirTempsPenalite.cpp",
+  "file": "C:/C++/Walloniades/W_DefinirTempsPenalite.cpp",
+  "output": "CMakeFiles/Walloniades.dir/W_DefinirTempsPenalite.cpp.obj"
+}
+]

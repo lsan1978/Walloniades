@@ -1,0 +1,9 @@
+C:/C++/Walloniades/build/CMakeFiles/Walloniades.dir
+C:/C++/Walloniades/build/CMakeFiles/edit_cache.dir
+C:/C++/Walloniades/build/CMakeFiles/rebuild_cache.dir
+C:/C++/Walloniades/build/CMakeFiles/list_install_components.dir
+C:/C++/Walloniades/build/CMakeFiles/install.dir
+C:/C++/Walloniades/build/CMakeFiles/install/local.dir
+C:/C++/Walloniades/build/CMakeFiles/install/strip.dir
+C:/C++/Walloniades/build/CMakeFiles/Walloniades_autogen_timestamp_deps.dir
+C:/C++/Walloniades/build/CMakeFiles/Walloniades_autogen.dir

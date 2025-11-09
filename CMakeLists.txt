@@ -1,0 +1,68 @@
+cmake_minimum_required(VERSION 3.19)
+project(LoginForm LANGUAGES CXX)
+
+
+find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets PrintSupport)
+
+
+
+qt_standard_project_setup()
+
+qt_add_executable(Walloniades
+    WIN32 MACOSX_BUNDLE
+    main.cpp
+    Capitaine.cpp
+    Capitaine.h
+	Epreuve.cpp
+    Epreuve.h
+	Equipe.cpp
+    Equipe.h
+	mainwindow.cpp
+    mainwindow.h
+	mainwindow.ui
+	mainwindowdesigner.cpp
+    mainwindowdesigner.h
+	mainwindowdesigner.ui
+	Participant.cpp
+    Participant.h
+	w_consultermodifierequipe.cpp
+    w_consultermodifierequipe.h
+	W_DefinirTirage.cpp
+	W_DefinirTirage.h
+	W_EntrerEpreuve.cpp
+	W_EntrerEpreuve.h
+	W_EntrerEquipe.cpp
+	W_EntrerEquipe.h
+	W_EntrerResultats.cpp
+	W_EntrerResultats.h
+    W_DefinirOrdreDePassage.cpp
+    W_DefinirOrdreDePassage.h
+	Walloniade.cpp
+	Walloniade.h
+    W_DefinirTempsPenalite.h
+    W_DefinirTempsPenalite.cpp
+    myapp.rc
+
+)
+
+target_link_libraries(Walloniades
+    PRIVATE
+        Qt::Core
+        Qt::Widgets
+		Qt::PrintSupport
+)
+
+include(GNUInstallDirs)
+
+install(TARGETS Walloniades
+    BUNDLE  DESTINATION .
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+)
+
+qt_generate_deploy_app_script(
+    TARGET Walloniades
+    OUTPUT_SCRIPT deploy_script
+    NO_UNSUPPORTED_PLATFORM_ERROR
+)
+install(SCRIPT ${deploy_script})
